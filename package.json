@@ -1,0 +1,15 @@
+{
+  "name": "chatroom1",
+  "version": "1.0.0",
+  "description": "WebRTC chatroom1",
+  "main": "index.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "keywords": [
+    "WebRTC",
+    "chatroom"
+  ],
+  "author": "Bernardo Felipe Martinez Meave",
+  "license": "ISC"
+}
